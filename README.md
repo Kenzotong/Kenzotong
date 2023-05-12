@@ -3,7 +3,7 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kenzotong)](https://github.com/anuraghazra/github-readme-stats)
 
 
--🔭 I’m currently working on Technical University Berlin as a student research assistant
--🌱 I’m currently learning Java, Python...
+- 🔭 I’m currently working on Technical University Berlin as a student research assistant
+- 🌱 I’m currently learning Java, Python...
 
 
